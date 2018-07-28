@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Webjeda Purple
+title: Augmenting-Cities-and-Architecture-MAB-2018
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   Webjeda Purple is a minimal theme built on default jekyll theme. It is very light highly customizable. Suitable for minimal blogs.
@@ -15,12 +15,12 @@ url: "http://webjeda.com" # the base hostname & protocol for your site #footer b
 built-by: webjeda #footer button text
 
 
-baseurl: "/purple"
+baseurl: "/blue"
 permalink: /:title/
 
 #color scheme - Purple theme
-color-1: '#6a3093'
-color-2: '#a044ff' 
+color-1: '#6a3043'
+color-2: '#a0444f' 
 
 #Endless-River theme - remove the '#' 
 #color-1: '#155799'
